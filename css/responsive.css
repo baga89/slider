@@ -1,0 +1,22 @@
+/* Small  */
+@media (min-width: 576px) { 
+  
+ }
+
+/* Medium */
+@media (min-width: 768px) { 
+  
+ }
+
+/* Large */
+@media (min-width: 992px) { 
+  .container {
+    padding-right: 6rem;
+    padding-left: 6rem;
+  }
+ }
+
+/* Extra large */
+@media (min-width: 1200px) { 
+  
+ }
